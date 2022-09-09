@@ -1,0 +1,187 @@
+/* Global declaration starts here... */
+*{
+	padding:0;
+	margin:0;
+}
+ul li{
+	list-style: none;
+}
+
+
+/* Global declaration ends here... */
+
+.links ul li {
+    display: inline-block;
+}
+.container_top{
+	padding-top: 20px;
+	background-color:  #121214;
+}
+.con{
+	background-color: #121214;
+}
+.search-container{
+	margin-top: 12px;
+	background-color: #161618;
+}
+#info{
+	background-color:#27272f;
+	margin-left:150px;
+	width:1280px;
+}
+#deals{
+	margin-left: 150px;
+	width:1280px;
+	background-color: #27272f;
+}
+.featured p{
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bolder;
+	color:grey;
+}
+.reg{
+	color:white;
+}
+.log{
+	color:white;
+}
+.glyphicon-shopping-cart{
+	color:white;
+}
+.information{
+	padding-top: 10px;
+	margin-right: 100px;
+	margin-left: 110px;
+}
+.slider{
+	width:1300px;
+}
+#product{	
+	padding-top: 10px;
+	width:1280px;
+	float:left;
+}
+.car{
+	padding-top: 10px;
+	margin-right: 100px;
+	margin-left: 110px;
+}
+.second{
+	margin-left: 45px;
+	padding-top: 10px;
+	text-align: center;
+}
+.mid-sec{
+	width:1280px;
+	margin-left:150px;
+}
+.green{
+	width:450px;
+	border-spacing: 10px;
+	background-color: #141414;
+	margin-left:90px;
+}
+.green h2,p{
+	color:#ccc;
+	padding-left: 10px;
+}
+.hi{
+	margin-right: 40px;
+}
+#reviews{
+	margin-right:100px;
+	width: 1280px;
+}
+
+.carousel-control{
+	margin-right: 120px;
+}
+.review{
+	text-align: center;
+	padding: 10px,10px;
+}
+.color{
+	border-spacing: 10px;
+	margin-left: 30px;
+}
+.review p{
+	font-weight: bolder;
+	font-size: 25px;
+	color:white;
+}
+.tex span{
+	color: white;
+}
+.foo p a
+{
+	color: grey;
+}
+#reviews p {
+    color: #ccc;
+}
+#reviews span {
+    color: #999;
+}
+.contact-info h3 {
+    color: #fff;
+}
+.navbar-nav{
+	background-color: black;
+}
+.text-white{
+	background-color: #121214;
+}	
+.navbar-nav{
+	background-color:  #161618;
+}
+.togg a{
+	color: white;
+}
+#product{
+	background-color:  #27272f;
+	margin-left: 150px;
+}
+.hey{
+	text-align: center;
+}
+.hey button{
+	padding-top: 10px;
+}
+.container{
+	background-color:#27272f;
+}
+.contact-info{
+	margin-left:150px;
+}
+.rev{
+	width: 1280px;
+	background-color:#27272f;
+	margin-left: 150px;
+}
+.mid-sec{
+	margin-left:150px;
+}
+.foot{
+	margin-left:150px;
+	background-color: #494a4f;
+	width:1280px;
+}
+.foot h4{
+	color:#8fc0c5;
+}
+.foo{
+	background-color:#161618;
+	margin-left:180px;
+}
+.mid-sec{
+	background-color: #27272f;
+}
+#footer{
+	text-align:center; 
+	margin-right: 120px;
+}
+.contact-info{
+	width:1280px;
+	background-color:#161618;
+}
